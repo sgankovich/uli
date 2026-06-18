@@ -9,6 +9,7 @@ uli/
 ├── README.md                    # Main overview and navigation
 ├── AGENT.md                     # This file - agent instructions
 ├── articles/                    # Copied articles and long-form content
+│   ├── ai/                      # AI, ML, and agent-related articles
 │   ├── programming/             # Programming-related articles
 │   ├── devops/                  # DevOps and infrastructure articles
 │   └── misc/                    # Other articles

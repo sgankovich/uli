@@ -19,6 +19,7 @@ uli/
 ├── README.md                    # This file - main overview
 ├── AGENT.md                     # Instructions for AI agents
 ├── articles/                    # Copied articles with metadata
+│   ├── ai/                      # AI, ML, and agent-related articles
 │   ├── programming/             # Programming languages, frameworks
 │   ├── devops/                  # DevOps, infrastructure, cloud
 │   └── misc/                    # Other technical articles
@@ -38,6 +39,7 @@ uli/
 ## Quick Navigation
 
 ### 📚 Articles
+- [AI Articles](./articles/ai/)
 - [Programming Articles](./articles/programming/)
 - [DevOps Articles](./articles/devops/)
 - [Miscellaneous Articles](./articles/misc/)

@@ -3,7 +3,7 @@ title: "My Honest Take on Mistral AI: What It's Good At, Where It Struggles, and
 date_added: 2024-06-18
 source: "User submission"
 author: "Anonymous"
-category: "misc"
+category: "ai"
 tags: [ai, mistral, review, productivity, coding, writing, research, document-processing]
 ---
 
