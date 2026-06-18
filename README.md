@@ -39,7 +39,9 @@ uli/
 ## Quick Navigation
 
 ### 📚 Articles
-- [AI Articles](./articles/ai/)
+- [AI Articles](./articles/ai/) - AI, ML, and agent-related content
+  - [My Honest Take on Mistral AI](articles/ai/2024-06-18-mistral-ai-honest-review.md)
+  - [Skill Authoring Best Practices](articles/ai/2024-06-18-skill-authoring-best-practices.md)
 - [Programming Articles](./articles/programming/)
 - [DevOps Articles](./articles/devops/)
 - [Miscellaneous Articles](./articles/misc/)
@@ -145,6 +147,7 @@ Always check the original source for licensing information when copying content.
 ---
 
 **Last Updated:** 2024-06-18  
-**Repository Created:** 2024-06-18
+**Repository Created:** 2024-06-18  
+**Current Articles:** 2 (both in AI category)
 
 For detailed agent instructions, see [AGENT.md](./AGENT.md)
